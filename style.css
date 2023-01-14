@@ -1,0 +1,45 @@
+.intro {
+    display: flex;
+    align-items: center;
+  }
+  
+  .picture {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .tabs a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+  }
+  
+  .tabs a:hover {
+    background-color: #ddd;
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .tabs a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #444;
+  }
+  

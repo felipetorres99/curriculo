@@ -1,0 +1,18 @@
+{
+  "name": "Curriculo",
+  "version": "1.0.0",
+  "description": "Neste projeto encontra-se o meu currículo de uma maneira diferente que eu próprio criei.",
+  "main": "Curriculo",
+  "scripts": {
+    "test": "Curriculo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felipetorres99/curriculo"
+  },
+  "keywords": [
+    "curriculo"
+  ],
+  "author": "Felipe Torres",
+  "license": "ISC"
+}
